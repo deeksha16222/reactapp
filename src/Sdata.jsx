@@ -26,6 +26,7 @@ imgsrc : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAs6c0zZR8ZChbWM
 title : "Best Netflix series to watch",
 link : "https://www.youtube.com/watch?v=X4bF_quwNtw",
 },
+
 ];
 
 export default Sdata;
