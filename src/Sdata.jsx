@@ -27,6 +27,20 @@ title : "Best Netflix series to watch",
 link : "https://www.youtube.com/watch?v=X4bF_quwNtw",
 },
 
+{
+sname : "She",  
+imgsrc : "https://spiderimg.amarujala.com/assets/images/2020/03/20/she_1584713601.png",
+title : "Best Netflix series to watch",
+link : "https://www.youtube.com/watch?v=WPlXILGpOFk",
+},
+
+{
+sname : "The Spy",  
+imgsrc : "https://m.media-amazon.com/images/M/MV5BM2ZmYjUxZDYtMmZlMi00YjlkLTkwNTItMjcxZDRlOTI3ZTNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+title : "Best Netflix series to watch",
+link : "https://www.youtube.com/watch?v=5UijUOy0MmE",
+},
+
 ];
 
 export default Sdata;
